@@ -1,7 +1,7 @@
 {
-  "name": "Komiksy",
+  "name": "Sample app",
   "version": "0.0.1",
-  "description": "Mini apka do pobierania komiksów",
+  "description": "Sample app",
   "main": "build/www/main.js",
   "scripts-info": {},
   "scripts": {
